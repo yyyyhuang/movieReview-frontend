@@ -1,3 +1,6 @@
+Heroku Link
+https://movietime-frontend-yingjie.herokuapp.com/
+
 hw6
 ![starts](snapshots/stars.jpg)
 ![dbStars](snapshots/dbStarts.jpg)
